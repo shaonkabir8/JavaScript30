@@ -1,2 +1,9 @@
+----
 # JavaScript30
-JavaScrpt30: Super sexy course of wes bos. I just love these coolest projects.
+**30 Days, 30 Coolest Project using Vanilla JavaScript. No Framework, No Library!**
+----
+
+### Project List:-
+|  #  |            Project             | Live Demo |
+| :-: | :----------------------------: | :-------: |
+| 01  | [JavaScript Drumkit]()         | []()      |
