@@ -6,4 +6,4 @@
 ### Project List:-
 |  #  |            Project             | Live Demo |
 | :-: | :----------------------------: | :-------: |
-| 01  | [JavaScript Drumkit]()         | []()      |
+| 01  | [JavaScript Drumkit](https://github.com/shaonkabir8/JavaScript30/tree/master/drumkit)         | [Live Demo](https://drumkit-vanilla-js.netlify.com) |
